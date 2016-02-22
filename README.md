@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi humans!
+
+this is my first experience of git-hub.
